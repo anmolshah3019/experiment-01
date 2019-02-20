@@ -1,1 +1,2 @@
-# experiment-01
+# My-First-MATLAB-Repo
+MATLAB RECTIFIER SIMULINK
